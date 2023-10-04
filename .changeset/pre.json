@@ -1,0 +1,16 @@
+{
+  "mode": "pre",
+  "tag": "beta",
+  "initialVersions": {
+    "x-boilerplate": "0.1.0"
+  },
+  "changesets": [
+    "angry-pandas-exist",
+    "empty-ants-watch",
+    "grumpy-tomatoes-shave",
+    "honest-kids-lie",
+    "light-dolls-remember",
+    "sharp-colts-wait",
+    "warm-bats-search"
+  ]
+}
